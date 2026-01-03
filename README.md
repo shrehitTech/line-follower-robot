@@ -38,10 +38,3 @@ https://github.com/user-attachments/assets/234ba36d-9b9f-414d-ac6f-3ea3c4fc4ea2
 // If you open this link in new tab then you will see an example image of the line following robot
 
 
-
-void Stop() {
-  digitalWrite(in1, LOW); //Right Motor Forward Pin
-  digitalWrite(in2, LOW); //Right Motor Backward Pin 
-  digitalWrite(in3, LOW); //Left Motor Backward Pin
-  digitalWrite(in4, LOW); //Left Motor Forward Pin
-}
