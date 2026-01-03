@@ -42,6 +42,7 @@ https://github.com/user-attachments/assets/234ba36d-9b9f-414d-ac6f-3ea3c4fc4ea2
 Middle school student interested in robotics and engineering
 
 ## Code
+```cpp
 
 // -------- Pin Definitions --------
 #define R_S 2     // Right IR sensor
