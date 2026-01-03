@@ -37,6 +37,10 @@ I built this to learn about sensors, motors, and real-time programming. I have a
 https://github.com/user-attachments/assets/234ba36d-9b9f-414d-ac6f-3ea3c4fc4ea2
 // If you open this link in new tab then you will see an example image of the line following robot
 
+## Author
+**Shrehit Dhiman**  
+Middle school student interested in robotics and engineering
+
 ## Code
 
 // -------- Pin Definitions --------
