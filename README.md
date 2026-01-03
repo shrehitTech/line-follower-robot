@@ -43,17 +43,17 @@ Middle school student interested in robotics and engineering
 
 ## Code
 
-// -------- Pin Definitions --------.
-#define R_S 2     // Right IR sensor.
-#define L_S 3     // Left IR sensor.
+// -------- Pin Definitions --------
+#define R_S 2     // Right IR sensor
+#define L_S 3     // Left IR sensor
 
-#define in1 4 //Right Motor Forward Pin.
-#define in2 5 //Right Motor Backward Pin.
-#define in3 6 //Left Motor Backward Pin.
-#define in4 7 //Left Motor Forward Pin.
+#define in1 4 //Right Motor Forward Pin
+#define in2 5 //Right Motor Backward Pin
+#define in3 6 //Left Motor Backward Pin
+#define in4 7 //Left Motor Forward Pin
 
-#define enA 9 //Used to power the Right Motor Pins.
-#define enB 10 //Used to power the Left Motor Pins.
+#define enA 9 //Used to power the Right Motor Pins
+#define enB 10 //Used to power the Left Motor Pins
 
 void setup() {
   // The input and output sets the usage so we can obtain the appropriate result that we wish for.
